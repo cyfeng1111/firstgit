@@ -1,3 +1,3 @@
 # firstgit
 你好
-这是我的第一个githu
+这是我的第一个github
