@@ -1,2 +1,3 @@
 # firstgit
-hello git
+你好
+这是我的第一个github
